@@ -1,0 +1,9 @@
+{
+  "pathToRoot": "../protocol",
+  "outputPath": "../protocol/docs",
+  "noCompilation": true,
+  "compiler": "truffle compile",
+  "language": "en",
+  "rootContract": "Cover",
+  "readMe": "../protocol/readme.md"
+}
