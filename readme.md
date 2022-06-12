@@ -90,4 +90,4 @@ You can also override language literals by copying and editing `i18n` files on t
 
 ## Example Documentation
 
-[Neptune Mutual Protocol Documentation](https://github.com/neptune-mutual/protocol)
+[Neptune Mutual Protocol Documentation](https://github.com/neptune-mutual-blue/protocol)
